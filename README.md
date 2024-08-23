@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -62,6 +62,8 @@
         <section id="home" class="section">
             <h2>Bem-vindo ao Mercantil Araújo</h2>
             <p>Seu comércio de confiança para produtos e serviços de qualidade.</p>
+            <p>Contato: (88)9 9693-2054 falar com Sr.Adriano</p>
+            <p>Endereço: Rua Domingos Savio N°359 Bairro Pio XII em Juazeiro do Norte,CE-BR.</p>
         </section>
 
         <section id="map" class="section">
